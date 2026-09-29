@@ -1,5 +1,5 @@
-# Custom environments for [WiVRn](https://github.com/WiVRn/WiVRn)
-This repository hosts 3D models that can be used in the lobby of WiVRn's headset application.
+# Custom environments for [WiVRn](https://github.com/Vindicus999/WiVRn)
+This repository hosts 3D models that can be used in the lobby of Vindicus999's fork of WiVRn's headset application.
 
 # Contributing
 In order to create a new environment, fork the project, create a new directory at the top level and save a blender file in it.
